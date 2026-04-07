@@ -2,6 +2,8 @@
 
 Minimal multi-client chat server written in Go.
 
+![Chat demo](Screenshot%20from%202026-04-07%2018-08-21.png)
+
 ## Run
 
 ```bash
@@ -24,6 +26,6 @@ Message format:
 - `/annonym:message`
 - `/quit`
 
-## Demo Screenshot
 
-![Chat demo](Screenshot%20from%202026-04-07%2018-08-21.png)
+
+
