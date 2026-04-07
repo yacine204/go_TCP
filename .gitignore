@@ -3,7 +3,7 @@
 *.out
 *.bin
 
-# Go build folder (optional)
+# Go build folder
 bin/
 
 # OS stuff
