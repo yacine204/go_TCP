@@ -1,0 +1,10 @@
+# binaries
+*.exe
+*.out
+*.bin
+
+# Go build folder (optional)
+bin/
+
+# OS stuff
+.DS_Store
